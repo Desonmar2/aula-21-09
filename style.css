@@ -1,0 +1,15 @@
+body {
+  background-color: #f5f6f8;
+}
+
+.post-item .card {
+  transition: box-shadow 0.15s ease;
+}
+
+.post-item .card:hover {
+  box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.08);
+}
+
+.post-conteudo {
+  white-space: pre-wrap;
+}
